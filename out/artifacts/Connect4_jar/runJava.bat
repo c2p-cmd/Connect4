@@ -1,0 +1,1 @@
+java --module-path="%PATH_TO_FX%" --add-modules=ALL-MODULE-PATH -jar Connect4.jar
