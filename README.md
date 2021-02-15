@@ -7,7 +7,7 @@ To run directly go to releases
 
 To compile on your system
 
-Make sure you have a java development kit (JDK) installed on your system.
-Download the corresponding OpenJFX SDK (if JRE is above 8) and extract in an easy to access folder.
-Setup Intellij Idea with javaFX Application
-Build and run from within the 'Run' menu option in Intellij Idea
+1. Make sure you have a java development kit (JDK) installed on your system.
+2. Download the corresponding OpenJFX SDK (if JRE is above 8) and extract in an easy to access folder.
+3. Setup Intellij Idea with javaFX Application
+4. Build and run from within the 'Run' menu option in Intellij Idea
